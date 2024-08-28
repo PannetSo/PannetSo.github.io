@@ -1,0 +1,43 @@
+commit QmTD2yWHFrLxy2DSHhaufsj41LmJzTVdwYuvwNXFZc6yUQ
+Branch: HEAD
+Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
+Signature: 2028ef60817fc4ecf31c8a3d451a053ddaea66375a7deb695243eae7430c7a1a37908ffcdf009862b0bab3e8a65b5a01fed480d7f88a766944fc38d4163f9cdb01
+
+------------------------------
+
+Commit CID if including git's SHA1: QmRoQUVJDQrNBnQHyVQrMZmbgAJ9h7WxaMFcm1M6bGPTiy
+Commit CID if containing only file hashes: QmdiGoeKh8WX4HhpDZhPZ2nmqzeZ7RUPU5M6M7JRMDM2dx
+
+------------------------------
+
+.gitmeta version: r8
+Local folder: /media/daniella/B/git/Pannet/0Pannet/Sites/Site
+Remote Name: 
+Remote URL: 
+
+------------------------------
+
+chown -h 1000:1000 '.folderstamp1'
+chmod 0664 '.folderstamp1'
+/usr/bin/touch -hcmd "2024-03-10 19:02:32.1407161000 -0300" '.folderstamp1'
+/usr/bin/touch -hcad "2024-08-28 11:53:59.8117942000 -0300" '.folderstamp1'
+chown -h 1000:1000 '.folderstamp2'
+chmod 0664 '.folderstamp2'
+/usr/bin/touch -hcmd "2024-08-28 11:54:00.0547888000 -0300" '.folderstamp2'
+/usr/bin/touch -hcad "2024-08-28 11:55:09.6562574000 -0300" '.folderstamp2'
+chown -h 1000:1000 'icon.png'
+chmod 0664 'icon.png'
+/usr/bin/touch -hcmd "2024-08-28 11:53:33.7493816000 -0300" 'icon.png'
+/usr/bin/touch -hcad "2024-08-28 11:53:36.5793175000 -0300" 'icon.png'
+chown -h 1000:1000 'icon.png.log.html5'
+chmod 0664 'icon.png.log.html5'
+/usr/bin/touch -hcmd "2024-08-28 11:54:09.2225841000 -0300" 'icon.png.log.html5'
+/usr/bin/touch -hcad "2024-08-28 11:55:09.8042542000 -0300" 'icon.png.log.html5'
+chown -h 1000:1000 'icon.svg'
+chmod 0755 'icon.svg'
+/usr/bin/touch -hcmd "2023-08-24 00:39:20.3626508000 -0300" 'icon.svg'
+/usr/bin/touch -hcad "2024-08-28 10:50:47.7217955000 -0300" 'icon.svg'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-08-28 11:52:00.5845514000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-08-28 11:54:00.0457890000 -0300" 'index.html'

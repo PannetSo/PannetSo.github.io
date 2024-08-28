@@ -1,0 +1,65 @@
+This folder: /media/daniella/B/git/Pannet/0Pannet/Sites/Site
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 104       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2540396     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 11:53:59.666797500 -0300
+Modify: 2024-08-28 11:53:59.698796800 -0300
+Change: 2024-08-28 11:53:59.698796800 -0300
+ Birth: 2024-08-28 11:53:59.666797500 -0300
+IPFS hash: QmQp9NWVruAPD2EVqn8w2PHDyYgGJgqHb6htQsJ3HVBps4
+------------------------------
+  File: ./.folderstamp1
+  Size: 1467      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2520680     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 10:45:57.734294500 -0300
+Modify: 2024-03-10 19:02:32.140716100 -0300
+Change: 2024-08-28 10:45:57.737294500 -0300
+ Birth: 2024-08-28 10:45:57.734294500 -0300
+IPFS hash: QmRKTsvCDs6Tk1NCR1Nxjonr6XVu8mN7zsLW8FPhGdLnDV
+------------------------------
+  File: ./icon.png
+  Size: 162562    	Blocks: 320        IO Block: 4096   regular file
+Device: 8,52	Inode: 2645015     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 11:53:36.579317500 -0300
+Modify: 2024-08-28 11:53:33.749381600 -0300
+Change: 2024-08-28 11:53:33.749381600 -0300
+ Birth: 2024-08-28 11:53:33.388389800 -0300
+IPFS hash: QmaMjxDCtARM4Ecb5EMp2rQTBQFsvbNKKGfLPqxjdHW7Nj
+------------------------------
+  File: ./icon.png.log.html5.txt
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,52	Inode: 3612974     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 11:53:43.939151000 -0300
+Modify: 2024-08-28 11:53:43.939151000 -0300
+Change: 2024-08-28 11:53:50.262008500 -0300
+ Birth: 2024-08-28 11:53:43.939151000 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./icon.svg
+  Size: 4704      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,52	Inode: 2638034     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 10:50:47.721795500 -0300
+Modify: 2023-08-24 00:39:20.362650800 -0300
+Change: 2024-08-28 10:46:52.758550600 -0300
+ Birth: 2024-08-28 10:46:05.615330200 -0300
+IPFS hash: QmZpV85ydDoXkxaBTTuKgUdhVH8SymPP9sV1An2b9fNaZq
+------------------------------
+  File: ./index.html
+  Size: 3135      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2825571     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 11:52:00.578551600 -0300
+Modify: 2024-08-28 11:52:00.584551400 -0300
+Change: 2024-08-28 11:52:00.938543000 -0300
+ Birth: 2024-08-28 11:52:00.578551600 -0300
+IPFS hash: QmY9y84h4xDVRMf4JeTuRSXr9g6tVN8E4Er2zwL45qfKyy
+------------------------------

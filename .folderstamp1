@@ -1,0 +1,32 @@
+This folder: /media/daniella/B/git/oweb3 DAOs/GLUE/GLUE/Sites/Site
+
+  File: ./icon.png
+  Size: 258804    	Blocks: 512        IO Block: 4096   regular file
+Device: 8,20	Inode: 971401      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-10 18:58:09.985557800 -0300
+Modify: 2023-04-27 21:57:38.542113500 -0300
+Change: 2023-05-20 22:47:23.002477400 -0300
+ Birth: 2023-04-27 21:57:38.081449900 -0300
+IPFS hash: QmP6YzpbH6uV7mLtV1CRk4oRsNrb6hAvC9Mztd3ssb4TpY
+------------------------------
+  File: ./icon.svg
+  Size: 207749    	Blocks: 408        IO Block: 4096   regular file
+Device: 8,20	Inode: 973704      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-09 22:56:43.226488500 -0300
+Modify: 2023-04-27 21:57:56.123109700 -0300
+Change: 2023-05-20 22:47:37.219368600 -0300
+ Birth: 2023-04-27 21:57:55.722893200 -0300
+IPFS hash: QmdRagc1F4Ty8uqyVCHrgoor9FhBKKZ96bZXHLKcbmCD6U
+------------------------------
+  File: ./index.html
+  Size: 1934      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4194644     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-26 23:24:46.020809100 -0300
+Modify: 2023-08-26 23:24:46.012425300 -0300
+Change: 2023-08-26 23:24:46.018579100 -0300
+ Birth: 2023-08-26 23:24:45.982797900 -0300
+IPFS hash: QmR7e4pQ9rzNmJtpTi1hwbpPh9Y6pQVxyiA98w4m5DAKnQ
+------------------------------
