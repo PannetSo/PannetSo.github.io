@@ -1,31 +1,23 @@
-commit QmXUhGuBrXiVuwvb8ue2eJPNMmD7JhvUFqr63ymMqGTVcb
+commit QmfNpfDgq7dz97Qw9MCeH31yoBS7duXK8Dsg28rQk7f1hv
 Branch: main
 Signed-off by: danimesq.eth (0xDDfC2e10702d8A781727A34D83B3bb3CA94a3E91)
-Signature: d67fe5acbe252de07af8707a09336660bccc76eea1824bd7f0ebfbb4d225ebc07078fc041c8736f8a6cf5c7b946735a503aa2850d0c391473367a59f8a7feb0300
+Signature: 9cfeea710820a533d80a6c21ca2ebea54dbaec76b382d3afcb3fd066b8ca47be4b743f0d4968c20d43c98cd7e6e2dafbaa1023ca9db1322db84af742aa83e22601
 
 ------------------------------
 
-Commit CID if including git's SHA1: QmdL3RmRpjJnFyUyvnShkNqeQyBigmjaBWQJwXiX2M8Y71
-Commit CID if containing only file hashes: QmdWSYCFtw7wctxzyiJJ7RtXdXjX9TGDuFs4vVJr3BEhYk
+Commit CID if including git's SHA1: QmU6oMgnVe6kvAWA2ABPrhvh2Jq16VZ7pUpyWamS9r77LJ
+Commit CID if containing only file hashes: Qme9ZFc5aFcUJMLTezcJe5hXCxypQL3aktmiU8h9jAGg1M
 
 ------------------------------
 
 .gitmeta version: r8
 Local folder: /media/daniella/B/git/Pannet/0Pannet/Sites/Site
-Remote Name: 
-Remote URL: 
+Remote Name: origin
+Remote URL: https://github.com/PannetSo/PannetSo.github.io.git
 
 ------------------------------
 
-chown -h 1000:1000 '.Legacy/.folderstamp1'
-chmod 0664 '.Legacy/.folderstamp1'
-/usr/bin/touch -hcmd "2024-03-10 19:02:32.1407161000 -0300" '.Legacy/.folderstamp1'
-/usr/bin/touch -hcad "2024-08-28 11:57:24.1414304000 -0300" '.Legacy/.folderstamp1'
-chown -h 1000:1000 '.Legacy/.folderstamp2'
-chmod 0664 '.Legacy/.folderstamp2'
-/usr/bin/touch -hcmd "2024-08-28 11:54:00.0547888000 -0300" '.Legacy/.folderstamp2'
-/usr/bin/touch -hcad "2024-08-28 11:57:24.1414304000 -0300" '.Legacy/.folderstamp2'
-chown -h 1000:1000 '.Legacy/icon.png.log.html5'
-chmod 0664 '.Legacy/icon.png.log.html5'
-/usr/bin/touch -hcmd "2024-08-28 11:54:09.2225841000 -0300" '.Legacy/icon.png.log.html5'
-/usr/bin/touch -hcad "2024-08-28 11:57:24.1414304000 -0300" '.Legacy/icon.png.log.html5'
+chown -h 1000:1000 'index.html'
+chmod 0755 'index.html'
+/usr/bin/touch -hcmd "2024-08-28 23:30:01.4932712000 -0300" 'index.html'
+/usr/bin/touch -hcad "2024-08-28 23:30:11.7897461000 -0300" 'index.html'
